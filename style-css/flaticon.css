@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?e18d16ae27dec6298651bb7a370b42b7") format("truetype"),
+url("./flaticon.woff?e18d16ae27dec6298651bb7a370b42b7") format("woff"),
+url("./flaticon.woff2?e18d16ae27dec6298651bb7a370b42b7") format("woff2"),
+url("./flaticon.eot?e18d16ae27dec6298651bb7a370b42b7#iefix") format("embedded-opentype"),
+url("./flaticon.svg?e18d16ae27dec6298651bb7a370b42b7#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-responsibility:before {
+    content: "\f101";
+}
+.flaticon-talent-management:before {
+    content: "\f102";
+}
+.flaticon-user-experience:before {
+    content: "\f103";
+}
+.flaticon-reliability:before {
+    content: "\f104";
+}
+.flaticon-guarantee:before {
+    content: "\f105";
+}
+.flaticon-call:before {
+    content: "\f106";
+}
+.flaticon-check:before {
+    content: "\f107";
+}
+.flaticon-speed:before {
+    content: "\f108";
+}
+.flaticon-knowledge:before {
+    content: "\f109";
+}
+.flaticon-key:before {
+    content: "\f10a";
+}
